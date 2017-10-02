@@ -1,7 +1,7 @@
 # ARKit-App-Plane-and-balls
 
 
-That's simple ARKit app which can give you opportunity to take a look on the plain and create the objects there (balls).
+That's simple ARKit app which can give you opportunity to take a look on the plain in the your area and create the objects there (balls).
 
 <br></br>
 1.Like 3D model was used standart Plane template.
